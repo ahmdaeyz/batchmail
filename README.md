@@ -14,6 +14,7 @@ Automates Emailing Events' attendees for GDG Damanhour
 ##### - Email adresses are expected to be in a csv file (most likely generated from a docs document from a google forms outputed sheet) 
 ##### - Email body can be (and should) in html 
 ##### - Failures are reported instantly to the console just like successes
+##### - In the csv file the Email header should be "email" (case sensetive) 
 ### Important Links :
 [Quick Start Tutorial](https://developers.google.com/gmail/api/quickstart/nodejs)</br>
 [Gmail API Reference](https://developers.google.com/gmail/api/v1/reference/)
